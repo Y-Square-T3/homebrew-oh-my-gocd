@@ -1,9 +1,9 @@
 class Omg < Formula
   desc "Rust Version of oh-my-gocd"
   homepage "https://github.com/Y-Square-T3/oh-my-gocd"
-  version "0.3.0"
-  url "https://github.com/Y-Square-T3/oh-my-gocd/releases/download/v0.3.0/omg-macos-arm64.tar.gz"
-  sha256 "4480340641caf08568cbd3644224a7a8ea36e3e352bbc06d4dca7edf890172c4"
+  version "0.3.1"
+  url "https://github.com/Y-Square-T3/oh-my-gocd/releases/download/v0.3.1/omg-macos-arm64.tar.gz"
+  sha256 "3f7e828ee5333f2673cc316b3ccc4cef36e91ca93b339f8c6238cba670182100"
 
   def install
     bin.install "omg"
